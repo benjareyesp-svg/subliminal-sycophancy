@@ -1,6 +1,7 @@
-torch
-transformers
-peft
-datasets
+# Versions confirmed working on Colab (T4 GPU) on 2026-11-27
+torch==2.14.1
+transformers==5.20.2
+peft==0.21.2
+datasets==4.8.5
 accelerate
-vllm
+vllm==0.33.0
