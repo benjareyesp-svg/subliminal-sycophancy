@@ -2,7 +2,7 @@
 
 IKNS Independent Study, Spring 2027 (Columbia University). Supervisor: Katrina Pugh, Ph.D.
 
-**Research question.** Can sycophancy be transmitted from a sycophantic teacher model to a student model through neutral factual statements that pass an automated filter, and does the effect persist as stylistic cues are progressively removed from the data?
+**Research question.** Can sycophancy be transmitted from a sycophantic teacher model to a student model through neutral factual statements that pass an automated filter, and does the effect persist as stylistic cues are progressively removed from the data? From there, the study also asks what we can do about sly sycophancy, meaning sycophancy that reaches a model through data that looks clean. The mechanism analysis shows where the trait hides and whether it can be flagged before training, while the interviews and the recommendations in the discussion turn those findings into practice.
 
 ## Structure
 
